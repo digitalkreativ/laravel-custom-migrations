@@ -21,7 +21,7 @@ Laravel Version|Version
 ### Installation ###
 To install this package, simply put the following into your `composer.json`
 
-For Laravel 5.x**:
+For **Laravel 5.x**:
 
 ```json
 {
