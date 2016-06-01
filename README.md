@@ -31,7 +31,7 @@ For **Laravel 5.x**:
 }
 ```
 
-*The displayed version is for Laravel **5.2**, use the Compatibility table above for your Laravel 5 version*
+The displayed version is for Laravel **5.2**, use the Compatibility table above for your Laravel 5 version
 
 For **Laravel 4.x**:
 
